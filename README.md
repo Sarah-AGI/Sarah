@@ -2,6 +2,8 @@
 Sarah Artificial General Intelligence
 # Sarah Artificial General Intelligence (Text,Images,Video,Audio,3D,Coder,Tools), All in One:
 
+![Sarah](https://ollama.com/assets/datasoft/Sarah/e0b9df86-808f-4215-971d-b8b76d5e9161)
+
 # ملف إقرأني (README) - Sarah AGI
 
 ## باللغة العربية
